@@ -1,0 +1,11 @@
+api:
+  google:
+    translate_auth_key:
+    cloud_auth_key:
+    cloud_location:
+    cost_per_million: 20
+  deepl:
+    translate_auth_key:
+    cost_per_million: 20
+ntm:
+  model: facebook/nllb-200-1.3B
